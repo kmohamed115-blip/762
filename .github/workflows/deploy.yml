@@ -23,5 +23,5 @@ jobs:
          application_name: "karim"
          environment_name: "Karim-env"
          version_label: ${{ github.sha }}
-         region: us-west-2
+         region: eu-north-1
          deployment_package: deploy.zip
